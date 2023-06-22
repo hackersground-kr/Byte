@@ -22,7 +22,7 @@
 
 ## 제품 소개 슬라이드
 
-**(필수)** [decks](https://github.com/hackersground-kr/Byte/blob/main/decks/%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98%2012.pptx)
+**(필수)** [decks]([https://github.com/hackersground-kr/Byte/blob/main/decks/%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98%2012.pptx](https://github.com/hackersground-kr/Byte/blob/main/decks/%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98%2012.zip)https://github.com/hackersground-kr/Byte/blob/main/decks/%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98%2012.zip)
 
 ## 제품 소개 동영상
 
