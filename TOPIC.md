@@ -22,8 +22,7 @@
 
 ## 제품 소개 슬라이드
 
-**(필수)** [decks]([https://github.com/hackersground-kr/Byte/blob/main/decks/%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98%2012.pptx](https://github.com/hackersground-kr/Byte/blob/main/decks/%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98%2012.zip)https://github.com/hackersground-kr/Byte/blob/main/decks/%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98%2012.zip)
-
+**(필수)** [decks](https://github.com/hackersground-kr/Byte/blob/main/decks/%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98%2012.zip)
 ## 제품 소개 동영상
 
 제품 또는 서비스를 소개하는 동영상을 YouTube와 같은 곳에 업로드하고 동영상 링크를 적어주세요.
